@@ -1,4 +1,4 @@
-name: Build on platforms
+name: Build on platformsx
 on:
   push:
     branches: ["main"]
